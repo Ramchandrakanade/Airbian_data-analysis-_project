@@ -30,6 +30,9 @@ The dataset used (`compresseddata.csv`) contains detailed Airbnb listings includ
 - Geographic distribution by neighborhood
 - Review trends over time
 
+## Dashboard
+
+<img width="1700" height="800" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/7505c53a-f647-4334-b813-264f12fb006f" />
 
 
 ## 🔍 Sample Insights
