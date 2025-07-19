@@ -4,7 +4,7 @@ This project is an exploratory data analysis (EDA) of Airbnb listing data. It ai
 
 ## 📁 Dataset
 The dataset used (`compresseddata.csv`) contains detailed Airbnb listings including prices, room types, host names, and reviews.
-- <a href="netflix_titles.csv">ExcelDataset</a>
+- <a href="https://github.com/Ramchandrakanade/Airbian_data-analysis-_project/blob/main/excel_data.zip">ExcelDataset</a>
 
 - <a href="Data.ipynb">code </a>
 
